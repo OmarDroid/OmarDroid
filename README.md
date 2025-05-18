@@ -13,10 +13,10 @@ I specialize in:
 
 ---
 
-### ✍️ I Write About What I Learn
+### ✍🏽 I Write About What I Learn
 
 Recently featured in **Android Weekly #675**:  
-👉 [Kotlin Coroutine Cancellation – An Advanced Guide](https://omaroid.medium.com/kotlin-coroutine-cancellation-an-advanced-guide-867cb43b5a48)
+👉🏽 [Kotlin Coroutine Cancellation – An Advanced Guide](https://omaroid.medium.com/kotlin-coroutine-cancellation-an-advanced-guide-867cb43b5a48)
 
 [![Featured in Android Weekly #675](https://img.shields.io/badge/Featured%20in-Android%20Weekly%20%23675-blue?style=flat-square&logo=android)](https://androidweekly.net/issues/issue-675)
   
