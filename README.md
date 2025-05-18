@@ -1,4 +1,5 @@
 ## Hi there 👋
+![image](https://github.com/user-attachments/assets/454dfdd4-f5f5-4ddb-aa75-97d0b3474891)
 
 <!--
 **OmarDroid/OmarDroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
