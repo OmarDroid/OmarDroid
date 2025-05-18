@@ -1,3 +1,7 @@
+<!-- Terminal-style animated banner -->
+![Terminal Intro](https://gist.githubusercontent.com/OmarDroid/126a86d0be50c58fc967a614755705da/raw/a9b76bc446301eeffd37fdd4232e48442a841b31/omardroid.svg)
+
+
 # 👋 Hi, I'm Omar
 
 🎯 **Mobile Engineer | iOS + Android | SwiftUI & Jetpack Compose Enthusiast**  
