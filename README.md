@@ -3,7 +3,7 @@
 
 ---
 
-🧑‍💻 I'm Omar — a cross-platform **mobile engineer** building fast, clean, and scalable apps for **iOS and Android**.
+🧑🏽‍💻 I'm Omar — a cross-platform **mobile engineer** building fast, clean, and scalable apps for **iOS and Android**.
 
 I specialize in:
 - Swift / SwiftUI
