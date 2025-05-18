@@ -40,7 +40,6 @@ I write about Kotlin, Swift, Jetpack Compose, SwiftUI, and building real-world a
 
 ## 🌍 Let's Connect
 
-- 🧑‍💻 [GitHub](https://github.com/OmarDroid)  
 - 📝 [Medium](https://omaroid.medium.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/andomaroid)  
 - 🌐 [Portfolio](https://omardroid.github.io/portfolio/)
