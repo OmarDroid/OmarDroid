@@ -21,10 +21,12 @@ Recently featured in:
 
 [![Featured in Android Weekly #675](https://img.shields.io/badge/Featured%20in-Android%20Weekly%20%23675-blue?style=flat-square&logo=android)](https://androidweekly.net/issues/issue-675)
 
-**Android Weekly #682**:  
+**Android Weekly #682 & Kotlin Weekly #476**:  
 👉🏽 [The Kotlin Flow Operator Cheat Sheet - A practical guide to demystifying asynchronous streams for everyday development](https://omaroid.medium.com/the-kotlin-flow-operator-cheat-sheet-01a4cf8978a2)
 
 [![Featured in Android Weekly #682](https://img.shields.io/badge/Featured%20in-Android%20Weekly%20%23682-blue?style=flat-square&logo=android)](https://androidweekly.net/issues/issue-682)
+[![Featured in Kotlin Weekly #467](https://img.shields.io/badge/Featured%20in-Kotlin%20Weekly%20%23467-purple?style=flat-square&logo=kotlin)](https://mailchi.mp/kotlinweekly/kotlin-weekly-467)
+
   
 More on Swift, Kotlin, Compose, and KMP at:  
 📖 [omaroid.medium.com](https://omaroid.medium.com)
