@@ -1,4 +1,4 @@
-![Hi, I'm Omar — Terminal Banner](https://gist.githubusercontent.com/OmarDroid/b9a483a27f5df7ff4a231088827ac4bf/raw/2a3d59d741495e8163db987e5bd4074dc48f6780/intro.svg)
+![Hi, I'm Omar — Terminal Banner](https://gist.githubusercontent.com/OmarDroid/b9a483a27f5df7ff4a231088827ac4bf/raw/a62d559e06ccf41dec5eaf040f5486d7b7a4555f/intro.svg)
 
 ---
 
